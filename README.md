@@ -8,6 +8,7 @@ QuadTreeDemo 包含以下内容：
 
 -   [quad_tree.hpp](quad_tree.hpp)
 -   [rect.hpp](rect.hpp)
+-   [vec2.hpp](vec2.hpp)
 
 ## 测试界面
 
