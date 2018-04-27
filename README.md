@@ -1,5 +1,8 @@
 # QuadTreeDemo
 
+*(仅供学习参考用)*
+
+
 QuadTreeDemo 包含以下内容：
   - `HEAD ONLY`的四叉树算法实现
   - MFC图形化测试工具。
